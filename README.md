@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, DIP, NLP**
 
-- 📫 How to reach me **sjobayer201062@bscse.uiu.ac.bd**
+- 📫 How to reach me **sjobayeroffcial@gmail.com**
 
 - ⚡ Fun fact **I love to think Outsite the box.**
 
