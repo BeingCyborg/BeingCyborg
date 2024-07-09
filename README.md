@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, DIP, NLP**
 
-- 📫 How to reach me **sjobayeroffcial@gmail.com**
+- 📫 How to reach me **shjobayeroffcial@gmail.com**
 
 - ⚡ Fun fact **I love to think Outsite the box.**
 
