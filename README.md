@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayed Hossain Jobayer</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/sh_jobayer" target="blank"><img src="https://img.shields.io/twitter/follow/sh_jobayer?logo=twitter&style=for-the-badge" alt="sh_jobayer" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/shjobayer/" target="blank"><img src="https://img.shields.io/twitter/follow/sh_jobayer?logo=twitter&style=for-the-badge" alt="sh_jobayer" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, DIP, NLP**
 
