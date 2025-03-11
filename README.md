@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/shjobayer/" target="blank"><img src="https://img.shields.io/twitter/follow/sh_jobayer?logo=twitter&style=for-the-badge" alt="sh_jobayer" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, DIP, NLP**
+- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, Computer Vision, NLP**
 
 - 📫 How to reach me **shjobayeroffcial@gmail.com**
 
