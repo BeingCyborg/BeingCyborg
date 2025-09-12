@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Data Engineer & Analyst</h3>
 
 
-- 💬 **Computer Science graduate with hands-on experience in data analysis. Skilled in SQL, Python, and BI tools to extract, clean, and visualize data for business insights. Experienced in analyzing large datasets, identifying discrepancies, and generating actionable insights to support business operations and decision-making. Eager to apply analytical and technical skills to drive operational efficiency and strategic outcomes.**
+- 💬 **Computer Science Graduate with hands-on experience in data analysis. Skilled in SQL, Python, and BI tools to extract, clean, and visualize data for business insights. Experienced in analyzing large datasets, identifying discrepancies, and generating actionable insights to support business operations and decision-making. Eager to apply analytical and technical skills to drive operational efficiency and strategic outcomes.**
 
 - ⚡ Fun fact **I Crave Perfection in My Work**
 
