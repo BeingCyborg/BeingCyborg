@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sayed Hossain Jobayer</h1>
-<h3 align="center"> Data Engineer & Analyst</h3>
+<h3 align="center"> Data Professional</h3>
 
 
-- 💬 **Computer Science Graduate with hands-on experience in data analysis. Skilled in SQL, Python, and BI tools to extract, clean, and visualize data for business insights. Experienced in analyzing large datasets, identifying discrepancies, and generating actionable insights to support business operations and decision-making. Eager to apply analytical and technical skills to drive operational efficiency and strategic outcomes.**
+- 💬 **Data Professional specializing in end-to-end data solutions, from extrac-
+tion and cleaning to advanced visualization. Backed by strong tech-
+nical proficiency in SQL, Python, and BI platforms. Experienced in
+
+designing scalable reporting models, integrating automated workflows,
+and translating complex data into clear, strategic insights that enhance
+day-to-day business efficiency. Proven ability to develop robust data
+
+pipelines and automate manual processes to drive continuous opera-
+tional improvements.*
 
 - ⚡ Fun fact **I Crave Perfection in My Work**
 
