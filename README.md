@@ -2,16 +2,7 @@
 <h3 align="center"> Data Professional</h3>
 
 
-- 💬 **Data Professional specializing in end-to-end data solutions, from extrac-
-tion and cleaning to advanced visualization. Backed by strong tech-
-nical proficiency in SQL, Python, and BI platforms. Experienced in
-
-designing scalable reporting models, integrating automated workflows,
-and translating complex data into clear, strategic insights that enhance
-day-to-day business efficiency. Proven ability to develop robust data
-
-pipelines and automate manual processes to drive continuous opera-
-tional improvements.*
+- 💬 **Data Professional specializing in end-to-end data solutions, from extraction and cleaning to advanced visualization. Backed by strong technical proficiency in SQL, Python, and BI platforms. Experienced in designing scalable reporting models, integrating automated workflows, and translating complex data into clear, strategic insights that enhance day-to-day business efficiency. Proven ability to develop robust data pipelines and automate manual processes to drive continuous operational improvements.*
 
 - ⚡ Fun fact **I Crave Perfection in My Work**
 
